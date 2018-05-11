@@ -88,5 +88,46 @@
          "header-top-right-url":"http://www.thenorthface.com/webapp/wcs/stores/servlet/TNFSearchResult?langId=-1&amp;storeId=207&amp;catalogId=10201&amp;searchTerm=running%20shoes",
          "product-cta-text":"Shop Now"
       }
-   ]
+   ],
+ "products64": [{
+        "product-name": "Prod1",
+        "product-image-url": "https://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/mens-better-than-naked-jacket-AVMH_LC9_hero.png"
+      },
+      {
+        "product-name": "Prod2",
+        "product-image-url": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-better-than-naked-jacket-AVKL_NN4_hero.png"
+      },
+      {
+        "product-name": "Prod3",
+        "product-image-url": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-single-track-shoe-ALQF_JM3_hero.png"
+      },
+      {
+        "product-name": "Prod4",
+        "product-image-url": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/enduro-boa-hydration-pack-AJQZ_JK3_hero.png"
+      },
+      {
+        "product-name": "Prod5",
+        "product-image-url": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/mens-better-than-naked-jacket-AVMH_LC9_hero.png"
+      },
+      {
+        "product-name": "Prod6",
+        "product-image-url": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-better-than-naked-jacket-AVKL_NN4_hero.png"
+      },
+      {
+        "product-name": "Prod7",
+        "product-image-url": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-single-track-shoe-ALQF_JM3_hero.png"
+      },
+      {
+        "product-name": "Prod8",
+        "product-image-url": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/enduro-boa-hydration-pack-AJQZ_JK3_hero.png"
+      },
+      {
+        "product-name": "Prod9",
+        "product-image-url": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-better-than-naked-jacket-AVKL_NN4_hero.png"
+      },
+      {
+        "product-name": "Prod10",
+        "product-image-url": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-single-track-shoe-ALQF_JM3_hero.png"
+      }
+      ]
 }
